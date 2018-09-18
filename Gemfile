@@ -38,7 +38,6 @@ gem 'jbuilder',     '2.7.0'
 gem 'bcrypt', git: 'https://github.com/codahale/bcrypt-ruby.git', :require => 'bcrypt'
 
 
-
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
